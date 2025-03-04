@@ -1,5 +1,6 @@
 code book
 
+
 ###  **Dataset Description**:
    - The dataset contains historical data on the number of citizens from the Republic of China (Taiwan) traveling abroad to various destinations from 2002 to 2024.
 
