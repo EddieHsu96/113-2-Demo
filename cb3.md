@@ -10,10 +10,10 @@ The Job Recommendation Dataset contains information about various job positions,
 |--------------------|-----------|-----------------------------------------------------------------------------------------|-----------------------------------------------|
 | `Job Title`        | character | The title of the job position.                                                          | Early years teacher, Counselling psychologist |
 | `Company`          | character | The name of the company offering the job.                                               | Richardson Ltd, Ramos, Santiago and Stewart   |
-| `Location`         | character | The location where the job is based.                                                    | Sydney, San Francisco, New York               |
+| `Location`         | factor | The location where the job is based.                                                    | Sydney, San Francisco, New York               |
 | `Experience Level` | character | The required experience level for the job (e.g., Entry Level, Mid Level, Senior Level). | Senior Level, Mid Level, Entry Level          |
 | `Salary`           | numeric   | The salary offered for the job in USD.                                                  | 87000.0, 50000.0, 77000.0                     |
-| `Industry`         | character | The industry in which the job is categorized.                                           | Healthcare, Marketing, Software               |
+| `Industry`         | factor | The industry in which the job is categorized.                                           | Healthcare, Marketing, Software               |
 | `Required Skills`  | character | The skills required for the job position, separated by commas.                          | Google Ads, SEO, Content Writing, Python      |
 
 \## Example Rows
