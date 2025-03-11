@@ -17,5 +17,9 @@ theme_set(
   theme(
     text = element_text(family = "Noto Sans TC")
   ) + 
+<<<<<<< HEAD
     theme_classic()
+=======
+  theme_classic()
+>>>>>>> dcc2425ecb72b5cc94ac0bc71f744d28e6fe46c5
 )
