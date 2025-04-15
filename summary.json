@@ -1,0 +1,236 @@
+{
+  "description": ["This summary provides an overview of each variable's class, unique values, min, max, and missing values."],
+  "operations": ["tidyverse functions: summarise(), across(), pivot_longer()"],
+  "summary": [
+    {
+      "variable": "school",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "sex",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "age",
+      "type": "numeric",
+      "unique": 8,
+      "min": 15,
+      "max": 22,
+      "missing": 0
+    },
+    {
+      "variable": "address",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "famsize",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "Pstatus",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "Medu",
+      "type": "numeric",
+      "unique": 5,
+      "min": 0,
+      "max": 4,
+      "missing": 0
+    },
+    {
+      "variable": "Fedu",
+      "type": "numeric",
+      "unique": 5,
+      "min": 0,
+      "max": 4,
+      "missing": 0
+    },
+    {
+      "variable": "Mjob",
+      "type": "character",
+      "unique": 5,
+      "missing": 0
+    },
+    {
+      "variable": "Fjob",
+      "type": "character",
+      "unique": 5,
+      "missing": 0
+    },
+    {
+      "variable": "reason",
+      "type": "character",
+      "unique": 4,
+      "missing": 0
+    },
+    {
+      "variable": "guardian",
+      "type": "character",
+      "unique": 3,
+      "missing": 0
+    },
+    {
+      "variable": "traveltime",
+      "type": "numeric",
+      "unique": 4,
+      "min": 1,
+      "max": 4,
+      "missing": 0
+    },
+    {
+      "variable": "studytime",
+      "type": "numeric",
+      "unique": 4,
+      "min": 1,
+      "max": 4,
+      "missing": 0
+    },
+    {
+      "variable": "failures",
+      "type": "numeric",
+      "unique": 4,
+      "min": 0,
+      "max": 3,
+      "missing": 0
+    },
+    {
+      "variable": "schoolsup",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "famsup",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "paid",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "activities",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "nursery",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "higher",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "internet",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "romantic",
+      "type": "character",
+      "unique": 2,
+      "missing": 0
+    },
+    {
+      "variable": "famrel",
+      "type": "numeric",
+      "unique": 5,
+      "min": 1,
+      "max": 5,
+      "missing": 0
+    },
+    {
+      "variable": "freetime",
+      "type": "numeric",
+      "unique": 5,
+      "min": 1,
+      "max": 5,
+      "missing": 0
+    },
+    {
+      "variable": "goout",
+      "type": "numeric",
+      "unique": 5,
+      "min": 1,
+      "max": 5,
+      "missing": 0
+    },
+    {
+      "variable": "Dalc",
+      "type": "numeric",
+      "unique": 5,
+      "min": 1,
+      "max": 5,
+      "missing": 0
+    },
+    {
+      "variable": "Walc",
+      "type": "numeric",
+      "unique": 5,
+      "min": 1,
+      "max": 5,
+      "missing": 0
+    },
+    {
+      "variable": "health",
+      "type": "numeric",
+      "unique": 5,
+      "min": 1,
+      "max": 5,
+      "missing": 0
+    },
+    {
+      "variable": "absences",
+      "type": "numeric",
+      "unique": 34,
+      "min": 0,
+      "max": 75,
+      "missing": 0
+    },
+    {
+      "variable": "G1",
+      "type": "numeric",
+      "unique": 17,
+      "min": 3,
+      "max": 19,
+      "missing": 0
+    },
+    {
+      "variable": "G2",
+      "type": "numeric",
+      "unique": 17,
+      "min": 0,
+      "max": 19,
+      "missing": 0
+    },
+    {
+      "variable": "G3",
+      "type": "numeric",
+      "unique": 18,
+      "min": 0,
+      "max": 20,
+      "missing": 0
+    }
+  ]
+}
