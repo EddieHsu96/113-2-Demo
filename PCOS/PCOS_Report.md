@@ -1,7 +1,7 @@
 # PCOS Rotterdam Dataset Insight Report
 
 Date: April 19, 2025  
-Prepared by: [Your Name]  
+Prepared by: Eddie Hsu
 Assisted by: AI Analyst ChatGPT
 
 ---
