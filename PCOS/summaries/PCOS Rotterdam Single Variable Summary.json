@@ -1,0 +1,91 @@
+{
+  "dataset": "PCOS Rotterdam Dataset",
+  "summary_date": "2025-04-19",
+  "total_rows": 1000,
+  "variables": [
+    {
+      "name": "Age",
+      "data_type": "Integer",
+      "description": "Age of the individual in years",
+      "summary": {
+        "min": 18,
+        "max": 44,
+        "mean": 29.67,
+        "median": 29,
+        "std_dev": 7.76,
+        "missing_values": 0,
+        "missing_percentage": 0.0
+      }
+    },
+    {
+      "name": "BMI",
+      "data_type": "Float",
+      "description": "Body Mass Index (kg/m²), a measure of body fat based on height and weight",
+      "summary": {
+        "min": 9.7,
+        "max": 41.9,
+        "mean": 23.93,
+        "median": 23.7,
+        "std_dev": 4.86,
+        "missing_values": 0,
+        "missing_percentage": 0.0
+      }
+    },
+    {
+      "name": "Menstrual_Irregularity",
+      "data_type": "Binary",
+      "description": "Indicates presence of irregular menstrual cycles (1 = Yes, 0 = No)",
+      "summary": {
+        "counts": {
+          "0": 605,
+          "1": 395
+        },
+        "proportion_1": 0.395,
+        "missing_values": 0,
+        "missing_percentage": 0.0
+      }
+    },
+    {
+      "name": "Testosterone_Level(ng/dL)",
+      "data_type": "Float",
+      "description": "Serum testosterone level in nanograms per deciliter",
+      "summary": {
+        "min": 20.5,
+        "max": 136.4,
+        "mean": 58.15,
+        "median": 53.2,
+        "std_dev": 20.78,
+        "missing_values": 0,
+        "missing_percentage": 0.0
+      }
+    },
+    {
+      "name": "Antral_Follicle_Count",
+      "data_type": "Integer",
+      "description": "Number of antral follicles observed via ultrasound, a marker for PCOS",
+      "summary": {
+        "min": 3,
+        "max": 39,
+        "mean": 10.95,
+        "median": 8,
+        "std_dev": 8.93,
+        "missing_values": 0,
+        "missing_percentage": 0.0
+      }
+    },
+    {
+      "name": "PCOS_Diagnosis",
+      "data_type": "Binary",
+      "description": "Indicates whether the individual is diagnosed with PCOS (1 = Yes, 0 = No)",
+      "summary": {
+        "counts": {
+          "0": 498,
+          "1": 502
+        },
+        "proportion_1": 0.502,
+        "missing_values": 0,
+        "missing_percentage": 0.0
+      }
+    }
+  ]
+}
