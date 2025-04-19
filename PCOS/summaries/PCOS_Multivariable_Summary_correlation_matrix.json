@@ -1,0 +1,52 @@
+{
+  "correlation_matrix": {
+    "Age": {
+      "Age": 1.0,
+      "BMI": -0.0808977914330173,
+      "Menstrual_Irregularity": -0.19395462566975064,
+      "Testosterone_Level(ng/dL)": -0.1746497225405548,
+      "Antral_Follicle_Count": -0.20094777030839092,
+      "PCOS_Diagnosis": -0.23851714850383038
+    },
+    "BMI": {
+      "Age": -0.0808977914330173,
+      "BMI": 1.0,
+      "Menstrual_Irregularity": 0.21327493771610467,
+      "Testosterone_Level(ng/dL)": 0.2342237651764932,
+      "Antral_Follicle_Count": 0.22883309873164095,
+      "PCOS_Diagnosis": 0.28894280165789965
+    },
+    "Menstrual_Irregularity": {
+      "Age": -0.19395462566975064,
+      "BMI": 0.21327493771610467,
+      "Menstrual_Irregularity": 1.0,
+      "Testosterone_Level(ng/dL)": 0.6106548423423913,
+      "Antral_Follicle_Count": 0.6792320157409367,
+      "PCOS_Diagnosis": 0.7836168065701289
+    },
+    "Testosterone_Level(ng/dL)": {
+      "Age": -0.1746497225405548,
+      "BMI": 0.2342237651764932,
+      "Menstrual_Irregularity": 0.6106548423423913,
+      "Testosterone_Level(ng/dL)": 1.0,
+      "Antral_Follicle_Count": 0.6695782390101027,
+      "PCOS_Diagnosis": 0.7799659141626732
+    },
+    "Antral_Follicle_Count": {
+      "Age": -0.20094777030839092,
+      "BMI": 0.22883309873164095,
+      "Menstrual_Irregularity": 0.6792320157409367,
+      "Testosterone_Level(ng/dL)": 0.6695782390101027,
+      "Antral_Follicle_Count": 1.0,
+      "PCOS_Diagnosis": 0.8653612031275979
+    },
+    "PCOS_Diagnosis": {
+      "Age": -0.23851714850383038,
+      "BMI": 0.28894280165789965,
+      "Menstrual_Irregularity": 0.7836168065701289,
+      "Testosterone_Level(ng/dL)": 0.7799659141626732,
+      "Antral_Follicle_Count": 0.8653612031275979,
+      "PCOS_Diagnosis": 1.0
+    }
+  }
+}
