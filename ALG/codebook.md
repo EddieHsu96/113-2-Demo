@@ -41,4 +41,3 @@ This dataset contains agricultural production data from various regions in Canad
 - Missing values, if any, are not represented in the provided sample but should be handled appropriately during analysis.
 - Conversion between acres and hectares can provide insights into land usage trends.
 
-Let me know if there are additional details you'd like to include or modify!
