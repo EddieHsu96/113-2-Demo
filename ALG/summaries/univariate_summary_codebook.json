@@ -1,0 +1,124 @@
+{
+    "REF_DATE": {
+        "class": "int64",
+        "missing_values": 0,
+        "unique_values": 76,
+        "description": "The year when the agricultural data was recorded.",
+        "summary_statistics": {
+            "count": 10273.0,
+            "mean": 1947.661053246374,
+            "std": 22.204519189790037,
+            "min": 1908.0,
+            "25%": 1929.0,
+            "50%": 1948.0,
+            "75%": 1967.0,
+            "max": 1984.0
+        }
+    },
+    "GEO": {
+        "class": "object",
+        "missing_values": 1,
+        "unique_values": 13,
+        "description": "The geographic region or province in Canada where the data was collected.",
+        "top_frequencies": {
+            "CA": 1305,
+            "ON": 1169,
+            "MA": 1104,
+            "AB": 1045,
+            "SK": 957
+        }
+    },
+    "Type of crop": {
+        "class": "object",
+        "missing_values": 1,
+        "unique_values": 23,
+        "description": "The type of crop grown in the region.",
+        "top_frequencies": {
+            "Barley": 924,
+            "Tame hay": 924,
+            "Oats": 924,
+            "Wheat, all": 924,
+            "Mixed grains": 914
+        }
+    },
+    "Average farm price (dollars per tonne)": {
+        "class": "float64",
+        "missing_values": 30,
+        "unique_values": 829,
+        "description": "The average price of the crop in dollars per tonne.",
+        "summary_statistics": {
+            "count": 10243.0,
+            "mean": 59.63307819974616,
+            "std": 90.92054934012731,
+            "min": 0.0,
+            "25%": 21.0,
+            "50%": 43.0,
+            "75%": 76.0,
+            "max": 6663.3
+        }
+    },
+    "Average yield (kilograms per hectare)": {
+        "class": "float64",
+        "missing_values": 27,
+        "unique_values": 1510,
+        "description": "The average yield of the crop in kilograms per hectare.",
+        "summary_statistics": {
+            "count": 10246.0,
+            "mean": 3647.442318953738,
+            "std": 8068.854965967991,
+            "min": 0.0,
+            "25%": 1055.0,
+            "50%": 1485.0,
+            "75%": 2363.75,
+            "max": 460305.0
+        }
+    },
+    "Production (metric tonnes)": {
+        "class": "float64",
+        "missing_values": 28,
+        "unique_values": 4697,
+        "description": "The total production of the crop in metric tonnes.",
+        "summary_statistics": {
+            "count": 10245.0,
+            "mean": 1010886.9608589556,
+            "std": 3044680.93653494,
+            "min": 0.0,
+            "25%": 8300.0,
+            "50%": 71950.0,
+            "75%": 548000.0,
+            "max": 133678950.0
+        }
+    },
+    "Seeded area (hectares)": {
+        "class": "float64",
+        "missing_values": 426,
+        "unique_values": 3424,
+        "description": "The total area used for seeding the crop in hectares.",
+        "summary_statistics": {
+            "count": 9847.0,
+            "mean": 531623.0782979588,
+            "std": 1978042.6349453283,
+            "min": 0.0,
+            "25%": 4350.0,
+            "50%": 34000.0,
+            "75%": 238900.0,
+            "max": 128389050.0
+        }
+    },
+    "Total farm value (dollars)": {
+        "class": "int64",
+        "missing_values": 0,
+        "unique_values": 6576,
+        "description": "The total value of the crop production in dollars.",
+        "summary_statistics": {
+            "count": 10273.0,
+            "mean": 54900.84395989487,
+            "std": 250241.34634655778,
+            "min": 0.0,
+            "25%": 369.0,
+            "50%": 3006.0,
+            "75%": 19541.0,
+            "max": 4654194.0
+        }
+    }
+}
