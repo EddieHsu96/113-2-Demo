@@ -15,7 +15,6 @@ This dataset contains agricultural production data from various regions in Canad
 | Average farm price (dollars per tonne) | Numeric      | The average price of the crop per tonne in dollars.                                              | 15, 25, 0.55                               |
 | Average yield (kilograms per hectare) | Numeric     | The average yield of the crop in kilograms per hectare.                                          | 1585, 1675                                 |
 | Production (metric tonnes)          | Numeric      | The total production of the crop in metric tonnes.                                               | 84000, 352000                              |
-| Seeded area (acres)                 | Numeric        | The total area (in acres) used for seeding the crop.                                             | 129800, 271000                             |
 | Seeded area (hectares)              | Numeric        | The total area (in hectares) used for seeding the crop.                                          | 53000, 110000                              |
 | Total farm value (dollars)          | Numeric        | The total value of the crop production in dollars.                                               | 1296, 4617                                 |
 
@@ -29,7 +28,6 @@ This dataset contains agricultural production data from various regions in Canad
 - **Average farm price (dollars per tonne)**: Provides the average price of the crop in dollars per tonne. This variable is numeric.
 - **Average yield (kilograms per hectare)**: Represents the average yield of the crop in kilograms per hectare. This variable is numeric.
 - **Production (metric tonnes)**: Indicates the total production of the crop in metric tonnes. This variable is numeric.
-- **Seeded area (acres)**: The total area used for seeding the crop in acres. This variable is numeric.
 - **Seeded area (hectares)**: The total area used for seeding the crop in hectares. This variable is numeric.
 - **Total farm value (dollars)**: The total value of the crop production in dollars. This variable is numeric.
 
