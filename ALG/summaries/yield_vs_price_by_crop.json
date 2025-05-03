@@ -1,0 +1,117 @@
+[
+    {
+        "Type of crop": "Barley",
+        "Average yield (kilograms per hectare)": 1693.2251082251082,
+        "Average farm price (dollars per tonne)": 49.53896103896104
+    },
+    {
+        "Type of crop": "Beans, all dry (white and coloured)",
+        "Average yield (kilograms per hectare)": 1206.122159090909,
+        "Average farm price (dollars per tonne)": 138.45738636363637
+    },
+    {
+        "Type of crop": "Buckwheat",
+        "Average yield (kilograms per hectare)": 1162.2599531615924,
+        "Average farm price (dollars per tonne)": 61.84777517564403
+    },
+    {
+        "Type of crop": "Canola (rapeseed)",
+        "Average yield (kilograms per hectare)": 916.605504587156,
+        "Average farm price (dollars per tonne)": 147.25688073394497
+    },
+    {
+        "Type of crop": "Corn for grain",
+        "Average yield (kilograms per hectare)": 3079.5408163265306,
+        "Average farm price (dollars per tonne)": 58.60204081632653
+    },
+    {
+        "Type of crop": "Corn for silage",
+        "Average yield (kilograms per hectare)": 14717.336538461539,
+        "Average farm price (dollars per tonne)": 4.677403846153846
+    },
+    {
+        "Type of crop": "Flaxseed",
+        "Average yield (kilograms per hectare)": 642.4910394265233,
+        "Average farm price (dollars per tonne)": 108.3010752688172
+    },
+    {
+        "Type of crop": "Lentils",
+        "Average yield (kilograms per hectare)": 1028.75,
+        "Average farm price (dollars per tonne)": 419.25
+    },
+    {
+        "Type of crop": "Mixed grains",
+        "Average yield (kilograms per hectare)": 1866.378555798687,
+        "Average farm price (dollars per tonne)": 47.18271334792122
+    },
+    {
+        "Type of crop": "Mustard seed",
+        "Average yield (kilograms per hectare)": 853.015873015873,
+        "Average farm price (dollars per tonne)": 158.72222222222223
+    },
+    {
+        "Type of crop": "Oats",
+        "Average yield (kilograms per hectare)": 1476.0551948051948,
+        "Average farm price (dollars per tonne)": 48.26731601731602
+    },
+    {
+        "Type of crop": "Peas, dry",
+        "Average yield (kilograms per hectare)": 1271.8070444104135,
+        "Average farm price (dollars per tonne)": 88.6405529953917
+    },
+    {
+        "Type of crop": "Rye, all",
+        "Average yield (kilograms per hectare)": 1121.2465181058496,
+        "Average farm price (dollars per tonne)": 45.33844011142061
+    },
+    {
+        "Type of crop": "Rye, fall remaining",
+        "Average yield (kilograms per hectare)": 1251.3184931506848,
+        "Average farm price (dollars per tonne)": 59.52054794520548
+    },
+    {
+        "Type of crop": "Rye, spring",
+        "Average yield (kilograms per hectare)": 985.0,
+        "Average farm price (dollars per tonne)": 50.25
+    },
+    {
+        "Type of crop": "Soybeans",
+        "Average yield (kilograms per hectare)": 1736.2903225806451,
+        "Average farm price (dollars per tonne)": 130.67741935483872
+    },
+    {
+        "Type of crop": "Sugar beets",
+        "Average yield (kilograms per hectare)": 25012.466843501326,
+        "Average farm price (dollars per tonne)": 12.257506631299735
+    },
+    {
+        "Type of crop": "Sunflower seed",
+        "Average yield (kilograms per hectare)": 614.8417721518987,
+        "Average farm price (dollars per tonne)": 100.93630573248407
+    },
+    {
+        "Type of crop": "Tame hay",
+        "Average yield (kilograms per hectare)": 3889.5779220779223,
+        "Average farm price (dollars per tonne)": 14.422770562770562
+    },
+    {
+        "Type of crop": "Wheat, all",
+        "Average yield (kilograms per hectare)": 1560.8982683982683,
+        "Average farm price (dollars per tonne)": 63.743506493506494
+    },
+    {
+        "Type of crop": "Wheat, durum",
+        "Average yield (kilograms per hectare)": 1745.8333333333333,
+        "Average farm price (dollars per tonne)": 188.95833333333334
+    },
+    {
+        "Type of crop": "Wheat, spring",
+        "Average yield (kilograms per hectare)": 1924.7202797202797,
+        "Average farm price (dollars per tonne)": 111.48251748251748
+    },
+    {
+        "Type of crop": "Wheat, winter remaining",
+        "Average yield (kilograms per hectare)": 2234.7169811320755,
+        "Average farm price (dollars per tonne)": 91.78301886792453
+    }
+]
