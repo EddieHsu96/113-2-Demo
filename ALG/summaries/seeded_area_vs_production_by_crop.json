@@ -1,0 +1,117 @@
+[
+    {
+        "Type of crop": "Barley",
+        "Seeded area (hectares)": 633858.4415584416,
+        "Production (metric tonnes)": 1098887.857142857
+    },
+    {
+        "Type of crop": "Beans, all dry (white and coloured)",
+        "Seeded area (hectares)": 14767.045454545454,
+        "Production (metric tonnes)": 18575.852272727272
+    },
+    {
+        "Type of crop": "Buckwheat",
+        "Seeded area (hectares)": 35079.62529274005,
+        "Production (metric tonnes)": 40002.22482435597
+    },
+    {
+        "Type of crop": "Canola (rapeseed)",
+        "Seeded area (hectares)": 463227.9816513761,
+        "Production (metric tonnes)": 497277.752293578
+    },
+    {
+        "Type of crop": "Corn for grain",
+        "Seeded area (hectares)": 142718.231292517,
+        "Production (metric tonnes)": 675360.5442176871
+    },
+    {
+        "Type of crop": "Corn for silage",
+        "Seeded area (hectares)": 42596.814903846156,
+        "Production (metric tonnes)": 1009138.0048076923
+    },
+    {
+        "Type of crop": "Flaxseed",
+        "Seeded area (hectares)": 206189.605734767,
+        "Production (metric tonnes)": 133699.28315412186
+    },
+    {
+        "Type of crop": "Lentils",
+        "Seeded area (hectares)": 29125.0,
+        "Production (metric tonnes)": 30275.0
+    },
+    {
+        "Type of crop": "Mixed grains",
+        "Seeded area (hectares)": 95721.17067833697,
+        "Production (metric tonnes)": 200110.9956236324
+    },
+    {
+        "Type of crop": "Mustard seed",
+        "Seeded area (hectares)": 37807.93650793651,
+        "Production (metric tonnes)": 33825.39682539683
+    },
+    {
+        "Type of crop": "Oats",
+        "Seeded area (hectares)": 950831.9805194805,
+        "Production (metric tonnes)": 1242804.5822510822
+    },
+    {
+        "Type of crop": "Peas, dry",
+        "Seeded area (hectares)": 13511.96319018405,
+        "Production (metric tonnes)": 17261.11963190184
+    },
+    {
+        "Type of crop": "Rye, all",
+        "Seeded area (hectares)": 98293.34540389972,
+        "Production (metric tonnes)": 105304.78551532033
+    },
+    {
+        "Type of crop": "Rye, fall remaining",
+        "Seeded area (hectares)": NaN,
+        "Production (metric tonnes)": 144391.7808219178
+    },
+    {
+        "Type of crop": "Rye, spring",
+        "Seeded area (hectares)": 34745.16129032258,
+        "Production (metric tonnes)": 30741.935483870966
+    },
+    {
+        "Type of crop": "Soybeans",
+        "Seeded area (hectares)": 122876.3440860215,
+        "Production (metric tonnes)": 246287.09677419355
+    },
+    {
+        "Type of crop": "Sugar beets",
+        "Seeded area (hectares)": 12600.848806366048,
+        "Production (metric tonnes)": 348991.64456233423
+    },
+    {
+        "Type of crop": "Sunflower seed",
+        "Seeded area (hectares)": 18413.92405063291,
+        "Production (metric tonnes)": 18994.303797468354
+    },
+    {
+        "Type of crop": "Tame hay",
+        "Seeded area (hectares)": 868037.2294372295,
+        "Production (metric tonnes)": 3336949.5086580086
+    },
+    {
+        "Type of crop": "Wheat, all",
+        "Seeded area (hectares)": 2293955.0865800865,
+        "Production (metric tonnes)": 3055914.554112554
+    },
+    {
+        "Type of crop": "Wheat, durum",
+        "Seeded area (hectares)": 730166.6666666666,
+        "Production (metric tonnes)": 1221833.3333333333
+    },
+    {
+        "Type of crop": "Wheat, spring",
+        "Seeded area (hectares)": 1326033.2167832167,
+        "Production (metric tonnes)": 2421652.797202797
+    },
+    {
+        "Type of crop": "Wheat, winter remaining",
+        "Seeded area (hectares)": NaN,
+        "Production (metric tonnes)": 471181.1320754717
+    }
+]
