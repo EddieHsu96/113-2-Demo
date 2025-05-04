@@ -1,0 +1,38 @@
+Variable Name,Class,Meaning,Example
+Marital Status,Integer,Automatically inferred category or identifier.,1
+Application mode,Integer,Information related to student application process.,17
+Application order,Integer,Information related to student application process.,5
+Course,Integer,Automatically inferred category or identifier.,171
+Daytime/evening attendance,Integer,Automatically inferred category or identifier.,1
+Previous qualification,Integer,Educational level or background.,1
+Previous qualification (grade),Numeric,"Grade achieved, often on a 0–20 scale.",122.0
+Nacionality,Integer,Automatically inferred category or identifier.,1
+Mother's qualification,Integer,Educational level or background.,19
+Father's qualification,Integer,Educational level or background.,12
+Mother's occupation,Integer,Parent's occupation category.,5
+Father's occupation,Integer,Parent's occupation category.,9
+Admission grade,Numeric,"Grade achieved, often on a 0–20 scale.",127.3
+Displaced,Integer,Automatically inferred category or identifier.,1
+Educational special needs,Integer,Automatically inferred category or identifier.,0
+Debtor,Integer,Automatically inferred category or identifier.,0
+Tuition fees up to date,Integer,Automatically inferred category or identifier.,1
+Gender,Integer,Student's gender.,1
+Scholarship holder,Integer,Automatically inferred category or identifier.,0
+Age at enrollment,Integer,Student's age at time of enrollment.,20
+International,Integer,Automatically inferred category or identifier.,0
+Curricular units 1st sem (credited),Integer,Number or outcome of academic units.,0
+Curricular units 1st sem (enrolled),Integer,Number or outcome of academic units.,0
+Curricular units 1st sem (evaluations),Integer,Number or outcome of academic units.,0
+Curricular units 1st sem (approved),Integer,Number or outcome of academic units.,0
+Curricular units 1st sem (grade),Numeric,"Grade achieved, often on a 0–20 scale.",0.0
+Curricular units 1st sem (without evaluations),Integer,Number or outcome of academic units.,0
+Curricular units 2nd sem (credited),Integer,Number or outcome of academic units.,0
+Curricular units 2nd sem (enrolled),Integer,Number or outcome of academic units.,0
+Curricular units 2nd sem (evaluations),Integer,Number or outcome of academic units.,0
+Curricular units 2nd sem (approved),Integer,Number or outcome of academic units.,0
+Curricular units 2nd sem (grade),Numeric,"Grade achieved, often on a 0–20 scale.",0.0
+Curricular units 2nd sem (without evaluations),Integer,Number or outcome of academic units.,0
+Unemployment rate,Numeric,Economic indicator at time of admission.,10.8
+Inflation rate,Numeric,Economic indicator at time of admission.,1.4
+GDP,Numeric,Economic indicator at time of admission.,1.74
+target,Factor,"Final academic outcome (Dropout, Graduate, Enrolled).",Dropout
